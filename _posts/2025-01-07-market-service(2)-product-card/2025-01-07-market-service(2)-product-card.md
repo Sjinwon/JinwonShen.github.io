@@ -19,9 +19,9 @@ discription:
 
 ## 마켓 서비스 만들기
 
-## 상품 카드 구현(1)
+## 상품 카드 구현
 
-DOM으로 Product Card를 생성하고 페이지에 보여주는 것까지 진행.
+`DOM`으로 `Product Card`를 생성하고 페이지에 보여주는 것까지 진행.
 
 ```js
 // list.js
@@ -37,7 +37,7 @@ productImage.alt = "파프리카";
 const
 ```
 
-document.createElement(), className, src, alt 등 할당해야 할 것들이 반복이 되기 때문에 재사용을 위해 하나의 util로 만들어 사용
+`document.createElement()`, `className`, `src`, `alt` 등 할당해야 할 것들이 반복이 되기 때문에 재사용을 위해 하나의 `util`로 만들어 사용
 
 <br>
 
