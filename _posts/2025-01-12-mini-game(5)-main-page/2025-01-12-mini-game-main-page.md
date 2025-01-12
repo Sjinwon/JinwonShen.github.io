@@ -101,3 +101,5 @@ gameInfoList.forEach((gameInfo) => {
   gameListContainer.appendChild(cardDOM);
 });
 ```
+
+<br>
