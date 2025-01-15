@@ -2,12 +2,13 @@
 layout: post
 title: "(toy-project) todo List 만들기"
 date: 2025-01-13 01:23:00 +09:00
-lastmode: 2025-01-13 01:23:00 +09:00
+lastmode: 2025-01-15 14:51:00 +09:00
 sitemap.changefreq: weekly
 sitemap.priority: 0.5
 categories: notice
 usemathjax: true
 tag:
+  - toy project
   - todo List
   - strict mode
   - json-server
@@ -248,6 +249,8 @@ const prev = firstNumber - 1; // 6
 https://github.com/typicode/json-server
 
 <br>
+
+**따라하기**
 
 ```js
 (function () {
