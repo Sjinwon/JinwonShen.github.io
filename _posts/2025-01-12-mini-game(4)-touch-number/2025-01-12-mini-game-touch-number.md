@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(javascript/js) 미니게임 사이트 만들기 : 숫자 클릭 게임 구현"
+title: "(toy-project) 미니게임 사이트 만들기 : 숫자 클릭 게임 구현"
 date: 2025-01-12 17:11:00 +09:00
 lastmode: 2025-01-12 17:11:00 +09:00
 sitemap.changefreq: weekly

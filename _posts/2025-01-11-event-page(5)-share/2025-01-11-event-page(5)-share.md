@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(javascript/js) 이벤트 페이지 만들기 : 공유하기"
+title: "(toy-project) 이벤트 페이지 만들기 : 공유하기"
 date: 2025-01-11 00:23:00 +09:00
 lastmode: 2025-01-11 00:23:00 +09:00
 sitemap.changefreq: weekly

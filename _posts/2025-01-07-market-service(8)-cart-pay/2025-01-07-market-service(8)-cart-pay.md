@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(javascript/js) 마켓서비스 만들기 : 장바구니 페이지 결제"
+title: "(toy-project) 마켓서비스 만들기 : 장바구니 페이지 결제"
 date: 2025-01-07 14:34:00 +09:00
 lastmode: 2025-01-07 14:34:00 +09:00
 sitemap.changefreq: weekly

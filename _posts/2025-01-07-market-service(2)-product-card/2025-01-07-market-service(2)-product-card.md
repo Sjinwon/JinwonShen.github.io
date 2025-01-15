@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(javascript/js) 마켓서비스 만들기 : 상품 카드 구현"
+title: "(toy-project) 마켓서비스 만들기 : 상품 카드 구현"
 date: 2025-01-06 23:44:00 +09:00
 lastmode: 2025-01-06 23:44:00 +09:00
 sitemap.changefreq: weekly

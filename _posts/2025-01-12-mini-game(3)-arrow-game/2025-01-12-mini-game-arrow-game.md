@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(javascript/js) 미니게임 사이트 만들기 : 방향키 게임"
+title: "(toy-project) 미니게임 사이트 만들기 : 방향키 게임"
 date: 2025-01-12 21:37:00 +09:00
 lastmode: 2025-01-12 21:37:00 +09:00
 sitemap.changefreq: weekly

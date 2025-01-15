@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(javascript/js) 이벤트 페이지 만들기 : 탭 메뉴 구현"
+title: "(toy-project) 이벤트 페이지 만들기 : 탭 메뉴 구현"
 date: 2025-01-10 15:00:00 +09:00
 lastmode: 2025-01-10 15:00:00 +09:00
 sitemap.changefreq: weekly

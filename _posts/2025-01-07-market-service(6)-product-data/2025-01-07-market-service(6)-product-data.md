@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(javascript/js) 마켓서비스 만들기 : 상품 데이터 연결"
+title: "(toy-project) 마켓서비스 만들기 : 상품 데이터 연결"
 date: 2025-01-07 11:21:00 +09:00
 lastmode: 2025-01-07 11:21:00 +09:00
 sitemap.changefreq: weekly

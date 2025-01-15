@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(javascript/js) 미니게임 사이트 만들기 : 이벤트 핸들러 및 타이머 구현"
+title: "(toy-project) 미니게임 사이트 만들기 : 이벤트 핸들러 및 타이머 구현"
 date: 2025-01-11 15:37:00 +09:00
 lastmode: 2025-01-11 15:37:00 +09:00
 sitemap.changefreq: weekly

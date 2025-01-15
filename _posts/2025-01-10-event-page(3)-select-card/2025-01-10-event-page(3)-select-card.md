@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(javascript/js) 이벤트 페이지 만들기 : 선택 카드 만들기 및 결과 영역"
+title: "(toy-project) 이벤트 페이지 만들기 : 선택 카드 만들기 및 결과 영역"
 date: 2025-01-10 16:00:00 +09:00
 lastmode: 2025-01-10 16:00:00 +09:00
 sitemap.changefreq: weekly

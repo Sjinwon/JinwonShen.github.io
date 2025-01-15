@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(javascript/js) 이벤트 페이지 만들기 : 과자 유형 검사"
+title: "(toy-project) 이벤트 페이지 만들기 : 과자 유형 검사"
 date: 2025-01-10 23:50:00 +09:00
 lastmode: 2025-01-10 23:50:00 +09:00
 sitemap.changefreq: weekly

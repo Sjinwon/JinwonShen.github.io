@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(toy Project) todo List 만들기"
+title: "(toy-project) todo List 만들기"
 date: 2025-01-13 01:23:00 +09:00
 lastmode: 2025-01-13 01:23:00 +09:00
 sitemap.changefreq: weekly
@@ -248,8 +248,6 @@ const prev = firstNumber - 1; // 6
 https://github.com/typicode/json-server
 
 <br>
-
-**따라하기**
 
 ```js
 (function () {
